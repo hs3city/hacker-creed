@@ -3,8 +3,9 @@ Nothing is true. Everything is permited... Welp, almost everything ;)
 This creed is by hackers for hackers.
 
 ## Language
-The creed will be written in Polish, but commit messages, this README, and so on -> shall be in English
-Issues may be discussed in Polish, but related PR should contain English summary of discussion and explanation of our choices.
+
++ Creed, Issues Discussion: *Polish*
++ Commit messages, README, **Release notes** etc.: *English*
 
 ## Prerequisites
 
