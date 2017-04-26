@@ -1,5 +1,5 @@
 # hacker-creed
-Nothing is true. Everything is permited... Welp, almost everything ;)
+Nothing is true. Everything is permited... Welp, almost everything ;)       
 This creed is by hackers for hackers.
 
 ## Language
@@ -38,4 +38,6 @@ Just preview with any markdown capable software, including this [online tool](ht
 
 ### Maintannce
 
-[Under construction]
+- Wojtek "Księdzu" Kokorzycki is appointed as admin of this repo until further notice, just in case ^^
+- Olgierd "Allgreed" Kasprowicz is the current acting moderator of this repo, until release 1.0
+- After relsease 1.0 a new moderator shall be appointed for a set period of time
